@@ -1,0 +1,30 @@
+.img{
+    height: 290px;
+    
+}
+
+main{
+    padding: 5%;
+}
+
+.card-img-autoridades{
+    height: 250PX;
+}
+.card{
+    height: 600px ;
+}
+
+.titulo-h3{
+    color: rgb(6, 133, 135);
+}
+.titulo-h1{
+    color: rgb(67, 73, 76);
+}
+
+.card-titl{
+       color: rgb(6, 133, 135);
+}
+
+.card-autoridades{
+     color: rgb(6, 133, 135);
+}
