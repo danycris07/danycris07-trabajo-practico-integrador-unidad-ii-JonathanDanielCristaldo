@@ -1,8 +1,24 @@
 main{
-    padding: 5%;
+    padding: 3%;
+    padding-top: 0%;
+    background-color: rgb(38, 42, 45);
 }
 
 .ddd{
     display: flex;
     justify-content: space-between;
+
+}
+
+.card-img-carr{
+    height: 250px;
+}
+
+.titulo-carreras{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+    background-color: rgb(38, 42, 45);
+    color: rgb(4, 146, 6)
+    
 }
