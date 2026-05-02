@@ -1,0 +1,82 @@
+
+
+body{
+    padding: 0%;
+    margin: 0%;
+     max-width: 4000px;
+}
+main{
+    padding: 5%;
+}
+.container-fluid{
+    background-color: rgb(67, 73, 76);
+    font-size: 4vh;
+
+
+
+
+}
+.navbar-brand{
+   display: flex;
+   justify-content: center;
+}
+
+
+.navbar-collapse{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+
+.card{
+    border: 2px black solid;
+}
+.card-group img{
+    height: 250px;
+ 
+}
+.card-body{
+   background-color: rgb(224, 217, 217);
+   
+}
+.card-body2{
+background-color: rgb(67, 73, 76);
+color: black;
+border: 2px black solid;
+}
+
+
+.card-header1{
+    background-color: rgb(38, 42, 45);
+    color: rgb(255, 255, 255);
+    border: 2px black solid;
+}
+
+
+.bienvenida{
+    color: rgb(6, 133, 135);
+ 
+}
+
+
+.carrusel-titulo{
+    color: rgb(36, 122, 156);
+}
+.parrafo-carrusel{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+.card-title1{
+    color: rgb(6, 133, 135);
+}
+
+
+
+
+
