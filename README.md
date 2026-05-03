@@ -1,5 +1,7 @@
- danycris07-trabajo-practico-integrador-unidad-ii-JonathanDanielCristaldo
-● Materia
+TRABAJO: danycris07-trabajo-practico-integrador-unidad-ii-JonathanDanielCristaldo
+
+
+Materia
 Taller de Lenguaje y Programacion
 año 2026
 Cristaldo Jonathan Daniel
