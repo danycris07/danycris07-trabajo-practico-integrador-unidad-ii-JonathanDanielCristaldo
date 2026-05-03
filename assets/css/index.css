@@ -7,27 +7,37 @@ body{
 }
 main{
     padding: 5%;
+    background-color: rgb(67, 73, 76);
 }
 .container-fluid{
     background-color: rgb(67, 73, 76);
     font-size: 4vh;
-
-
-
-
-}
-.navbar-brand{
-   display: flex;
-   justify-content: center;
 }
 
 
-.navbar-collapse{
-    display: flex;
-    justify-content: center;
-    align-items: center;
- 
+
+.container-fluid{
+padding: 2%;
+border-radius: 15px;
+
 }
+.navbar-nav .nav-link {
+  position: relative;
+  transition: all 0.3s ease;
+  color: rgb(16, 121, 76);
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+
+.navbar-nav .nav-link:hover {
+  color: rgb(255, 255, 255); 
+  background-color: rgb(16, 121, 76) ;
+  border-radius: 5px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .carousel-item img {
     height: 400px;
     object-fit: cover;
@@ -60,13 +70,16 @@ border: 2px black solid;
 
 
 .bienvenida{
-    color: rgb(6, 133, 135);
+    color: rgb(15, 110, 69);
  
+}
+.text-B{
+    color: black;
 }
 
 
 .carrusel-titulo{
-    color: rgb(36, 122, 156);
+    color: rgb(16, 121, 76);
 }
 .parrafo-carrusel{
     color: rgb(255, 255, 255);
