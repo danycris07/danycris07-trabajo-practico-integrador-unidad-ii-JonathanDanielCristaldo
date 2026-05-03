@@ -50,7 +50,7 @@ border-radius: 15px;
 
 
 
-
+/*imagenes tengan mismo tamaño*/
 .card-img-carr{
     height: 250px;
 }
@@ -63,6 +63,7 @@ border-radius: 15px;
     color: rgb(9, 132, 80);
     
 }
+/*fondo de carta carrera*/
 .card-body{
     background-color: rgb(161, 154, 154);
 }
@@ -73,6 +74,8 @@ border-radius: 15px;
 .card-group img{
     height: 250px;
  
+
+    /*footer estilos*/
 }
 .card-body{
    background-color: rgb(224, 217, 217);
